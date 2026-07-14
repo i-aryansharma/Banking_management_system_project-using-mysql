@@ -131,7 +131,7 @@ Banking-Management-System/
 ├── accounts.csv
 ├── transactions.csv
 ├── employees.csv
-└── ER_Diagram.png
+└── ER Diagram.png
 ```
 
 ---
