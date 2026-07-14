@@ -124,7 +124,7 @@ The database consists of the following tables:
 Banking-Management-System/
 │
 ├── README.md
-├── schema.sql
+├── banking_management schema.sql
 ├── business_queries.sql
 ├── customers.csv
 ├── branches.csv
