@@ -1,0 +1,301 @@
+employee_id,branch_id,employee_name,designation,salary,hire_date
+1,13,Priya Singh,Manager,26514,2018-06-07
+2,19,Priya Singh,Manager,71862,2018-01-10
+3,14,Karan Sharma,Cashier,71480,2024-11-18
+4,18,Priya Patel,Cashier,115108,2022-05-27
+5,7,Ananya Kumar,Manager,61141,2022-05-20
+6,16,Rohit Kumar,Officer,108516,2020-10-17
+7,7,Rahul Patel,Officer,107638,2024-06-24
+8,8,Pooja Sharma,Clerk,66172,2019-02-02
+9,11,Rohit Sharma,Officer,86663,2024-02-24
+10,4,Pooja Sharma,Relationship Manager,67397,2018-02-18
+11,12,Ananya Sharma,Cashier,37891,2024-03-28
+12,14,Pooja Patel,Manager,40712,2023-05-14
+13,15,Rohit Singh,Relationship Manager,84406,2018-12-06
+14,16,Meera Sharma,Cashier,29152,2019-04-26
+15,19,Rohit Sharma,Officer,31262,2023-09-26
+16,15,Karan Patel,Officer,89077,2024-04-04
+17,10,Sneha Gupta,Clerk,106267,2021-04-01
+18,20,Neha Gupta,Officer,83351,2021-06-29
+19,5,Priya Gupta,Clerk,54548,2025-02-04
+20,18,Priya Singh,Relationship Manager,75540,2020-03-12
+21,3,Rahul Sharma,Manager,94179,2022-11-22
+22,16,Sneha Singh,Manager,93162,2021-02-19
+23,11,Karan Gupta,Relationship Manager,38171,2024-09-27
+24,1,Rohit Kumar,Clerk,110530,2022-04-14
+25,15,Vikas Patel,Manager,96709,2021-08-07
+26,20,Priya Sharma,Cashier,87453,2023-04-29
+27,4,Ananya Gupta,Clerk,76221,2018-10-14
+28,13,Amit Gupta,Manager,27700,2020-06-20
+29,11,Rahul Patel,Officer,38855,2021-11-05
+30,13,Priya Patel,Cashier,28762,2019-01-03
+31,7,Neha Patel,Manager,114745,2020-03-12
+32,9,Amit Kumar,Officer,45220,2019-05-02
+33,18,Meera Gupta,Manager,28297,2025-03-28
+34,18,Karan Sharma,Cashier,104330,2018-02-18
+35,17,Sneha Patel,Relationship Manager,111691,2020-11-30
+36,17,Sneha Patel,Officer,85666,2023-03-29
+37,17,Neha Sharma,Manager,34803,2021-11-21
+38,18,Neha Kumar,Manager,52429,2023-07-20
+39,19,Neha Kumar,Relationship Manager,93041,2023-11-25
+40,1,Rohit Kumar,Cashier,74417,2024-02-04
+41,2,Rohit Singh,Cashier,60848,2019-10-31
+42,10,Rahul Sharma,Cashier,34849,2023-07-12
+43,16,Rohit Patel,Officer,44339,2022-05-26
+44,9,Priya Kumar,Clerk,78082,2020-07-15
+45,6,Neha Singh,Officer,52315,2024-06-25
+46,9,Sneha Gupta,Relationship Manager,62599,2021-01-28
+47,4,Neha Kumar,Manager,57768,2021-02-13
+48,20,Arjun Patel,Cashier,57120,2025-01-19
+49,10,Vikas Singh,Clerk,26671,2023-06-05
+50,14,Rahul Singh,Cashier,32083,2022-05-01
+51,2,Amit Sharma,Relationship Manager,58622,2020-06-18
+52,7,Ananya Singh,Officer,36288,2021-07-12
+53,11,Priya Sharma,Cashier,90067,2025-01-29
+54,9,Karan Patel,Cashier,65731,2023-07-12
+55,5,Ananya Sharma,Cashier,91106,2018-01-08
+56,15,Pooja Kumar,Manager,93400,2022-12-18
+57,1,Rohit Kumar,Officer,80393,2021-11-13
+58,4,Ananya Gupta,Clerk,103612,2024-10-29
+59,12,Arjun Kumar,Clerk,116979,2022-04-07
+60,5,Rohit Patel,Cashier,59574,2018-11-18
+61,7,Meera Singh,Clerk,84092,2018-01-17
+62,4,Ananya Sharma,Manager,72158,2020-04-22
+63,12,Vikas Kumar,Cashier,76269,2018-03-22
+64,9,Karan Sharma,Relationship Manager,75569,2023-07-29
+65,18,Vikas Sharma,Manager,26855,2024-05-31
+66,12,Karan Sharma,Relationship Manager,67136,2024-11-02
+67,8,Arjun Kumar,Manager,81019,2018-03-14
+68,9,Rahul Kumar,Clerk,62688,2021-01-08
+69,7,Priya Sharma,Cashier,110295,2018-12-12
+70,17,Vikas Kumar,Officer,96876,2025-04-14
+71,1,Priya Sharma,Manager,116620,2025-01-27
+72,9,Priya Gupta,Clerk,89890,2021-06-24
+73,11,Pooja Singh,Relationship Manager,54339,2024-09-03
+74,3,Rahul Singh,Relationship Manager,88995,2022-05-12
+75,19,Sneha Singh,Clerk,33002,2019-10-01
+76,9,Karan Singh,Clerk,91845,2022-06-19
+77,9,Vikas Sharma,Clerk,97505,2019-01-29
+78,20,Sneha Sharma,Cashier,100226,2018-05-11
+79,14,Karan Patel,Relationship Manager,48504,2021-12-26
+80,2,Vikas Sharma,Manager,86032,2023-06-20
+81,13,Rohit Patel,Cashier,66811,2023-08-27
+82,7,Priya Patel,Clerk,60843,2021-11-25
+83,6,Priya Sharma,Manager,88489,2024-03-29
+84,7,Priya Gupta,Clerk,48018,2023-08-12
+85,15,Amit Sharma,Manager,68830,2022-09-07
+86,3,Karan Singh,Clerk,95180,2022-01-29
+87,18,Ananya Sharma,Clerk,101358,2020-05-22
+88,18,Meera Gupta,Clerk,40711,2021-11-21
+89,8,Rohit Patel,Officer,114797,2024-11-29
+90,1,Meera Gupta,Cashier,35894,2018-01-30
+91,17,Rahul Gupta,Manager,106971,2021-08-07
+92,10,Neha Singh,Cashier,104241,2022-02-28
+93,18,Ananya Singh,Cashier,28934,2021-03-07
+94,2,Ananya Gupta,Manager,33262,2023-11-11
+95,7,Neha Sharma,Relationship Manager,100404,2019-03-24
+96,14,Vikas Gupta,Manager,81693,2018-11-16
+97,9,Neha Sharma,Relationship Manager,97166,2023-11-16
+98,3,Rohit Kumar,Clerk,49569,2023-08-05
+99,17,Priya Gupta,Clerk,46461,2022-08-02
+100,8,Rahul Gupta,Cashier,113839,2023-07-31
+101,18,Priya Sharma,Officer,83712,2020-10-27
+102,5,Rohit Sharma,Cashier,25193,2022-07-10
+103,14,Priya Patel,Officer,86215,2022-11-06
+104,3,Rohit Sharma,Clerk,66581,2020-09-16
+105,18,Rahul Patel,Clerk,53358,2018-10-06
+106,9,Vikas Gupta,Officer,42492,2022-12-16
+107,9,Pooja Sharma,Manager,42997,2019-04-01
+108,11,Amit Gupta,Relationship Manager,78395,2024-08-07
+109,5,Amit Sharma,Cashier,114578,2024-08-15
+110,11,Pooja Singh,Clerk,79211,2024-12-30
+111,7,Arjun Kumar,Officer,45650,2020-04-20
+112,16,Priya Kumar,Cashier,28227,2024-04-06
+113,17,Meera Patel,Officer,52235,2020-10-22
+114,16,Rohit Singh,Officer,48001,2024-04-29
+115,5,Ananya Sharma,Officer,64582,2022-11-17
+116,18,Pooja Kumar,Relationship Manager,114815,2023-12-24
+117,18,Karan Kumar,Cashier,114729,2018-03-14
+118,1,Priya Patel,Manager,104758,2021-08-05
+119,6,Amit Sharma,Cashier,89146,2018-12-18
+120,19,Sneha Sharma,Relationship Manager,70508,2018-01-07
+121,15,Arjun Kumar,Relationship Manager,92449,2022-11-21
+122,20,Pooja Sharma,Manager,87735,2024-09-07
+123,5,Arjun Sharma,Relationship Manager,84564,2023-05-22
+124,18,Priya Kumar,Cashier,33109,2022-09-16
+125,7,Karan Gupta,Manager,69056,2024-09-26
+126,16,Sneha Kumar,Relationship Manager,95850,2024-07-07
+127,20,Neha Sharma,Relationship Manager,60149,2021-03-10
+128,17,Amit Sharma,Manager,56317,2023-03-19
+129,11,Karan Gupta,Officer,101122,2025-03-13
+130,17,Ananya Singh,Cashier,41587,2020-01-14
+131,5,Neha Singh,Cashier,37651,2020-03-16
+132,20,Pooja Gupta,Clerk,101348,2024-08-23
+133,10,Karan Singh,Manager,66701,2024-02-07
+134,9,Pooja Singh,Relationship Manager,65677,2023-09-14
+135,18,Rahul Sharma,Relationship Manager,84020,2021-05-26
+136,9,Pooja Patel,Officer,86402,2025-05-20
+137,12,Neha Patel,Manager,86197,2024-11-12
+138,15,Rohit Singh,Manager,114478,2021-08-07
+139,4,Ananya Kumar,Manager,98464,2024-07-01
+140,9,Pooja Gupta,Manager,75463,2023-06-26
+141,14,Meera Sharma,Officer,112385,2020-08-10
+142,14,Vikas Patel,Relationship Manager,45050,2020-08-16
+143,3,Arjun Singh,Cashier,114955,2023-01-08
+144,12,Meera Singh,Clerk,118012,2020-08-12
+145,6,Karan Patel,Cashier,114381,2023-03-13
+146,13,Neha Gupta,Clerk,84148,2021-07-09
+147,16,Meera Singh,Officer,91789,2019-12-13
+148,4,Ananya Patel,Cashier,107765,2023-05-25
+149,19,Vikas Sharma,Manager,118822,2022-04-25
+150,15,Meera Gupta,Cashier,47215,2020-03-02
+151,18,Priya Sharma,Relationship Manager,54812,2022-03-24
+152,10,Vikas Gupta,Officer,56951,2020-02-08
+153,7,Neha Singh,Relationship Manager,34305,2021-05-10
+154,20,Amit Patel,Relationship Manager,90659,2023-03-29
+155,7,Karan Singh,Relationship Manager,90833,2022-03-13
+156,19,Amit Patel,Cashier,38728,2021-10-01
+157,1,Amit Sharma,Cashier,118460,2024-08-16
+158,18,Neha Kumar,Cashier,112373,2020-08-30
+159,18,Rahul Patel,Relationship Manager,48028,2019-09-14
+160,17,Ananya Sharma,Manager,44212,2018-03-21
+161,3,Priya Singh,Clerk,117305,2018-01-05
+162,16,Pooja Gupta,Relationship Manager,35344,2023-05-16
+163,10,Karan Sharma,Manager,69726,2024-04-19
+164,17,Vikas Patel,Manager,35532,2021-09-01
+165,18,Ananya Gupta,Relationship Manager,62630,2022-07-19
+166,1,Arjun Gupta,Relationship Manager,97874,2025-01-06
+167,19,Neha Gupta,Cashier,101029,2021-09-11
+168,8,Sneha Kumar,Manager,90786,2021-05-18
+169,3,Pooja Gupta,Manager,103796,2022-12-12
+170,12,Arjun Patel,Clerk,108185,2019-05-03
+171,9,Rohit Singh,Relationship Manager,72981,2024-11-14
+172,18,Priya Singh,Cashier,117345,2021-10-07
+173,12,Ananya Sharma,Clerk,92759,2025-01-02
+174,19,Pooja Sharma,Cashier,30659,2020-06-17
+175,15,Sneha Singh,Cashier,31323,2019-11-10
+176,17,Amit Kumar,Cashier,78683,2019-07-31
+177,15,Karan Singh,Relationship Manager,27183,2018-05-18
+178,20,Ananya Gupta,Relationship Manager,79770,2020-09-20
+179,6,Rohit Gupta,Officer,80961,2019-06-23
+180,4,Ananya Kumar,Manager,36005,2018-08-08
+181,9,Sneha Gupta,Officer,53600,2020-12-04
+182,2,Rohit Gupta,Manager,88605,2023-02-03
+183,16,Meera Sharma,Manager,79324,2022-12-01
+184,3,Sneha Kumar,Officer,32354,2023-11-02
+185,5,Vikas Kumar,Clerk,26478,2021-09-15
+186,17,Pooja Kumar,Clerk,29364,2020-03-23
+187,1,Rahul Kumar,Cashier,66219,2022-02-22
+188,19,Pooja Sharma,Clerk,113063,2024-02-26
+189,16,Vikas Gupta,Manager,27471,2019-10-27
+190,20,Priya Kumar,Manager,111808,2022-12-18
+191,1,Sneha Singh,Manager,80168,2019-01-10
+192,4,Rohit Gupta,Clerk,99451,2020-01-09
+193,4,Amit Kumar,Cashier,88440,2018-03-18
+194,15,Priya Kumar,Clerk,112027,2022-10-28
+195,9,Rahul Sharma,Officer,90226,2022-02-03
+196,1,Karan Sharma,Officer,111421,2020-12-04
+197,10,Karan Gupta,Manager,97225,2022-02-23
+198,4,Rohit Gupta,Manager,60728,2018-02-25
+199,9,Vikas Gupta,Officer,82234,2024-03-06
+200,11,Karan Singh,Cashier,55845,2018-10-25
+201,17,Ananya Patel,Manager,119370,2021-06-26
+202,8,Arjun Sharma,Clerk,65549,2020-03-02
+203,7,Rahul Gupta,Officer,87659,2019-05-13
+204,20,Amit Patel,Relationship Manager,75755,2023-02-17
+205,12,Rahul Gupta,Cashier,115296,2019-04-05
+206,17,Rohit Kumar,Cashier,26783,2019-10-13
+207,19,Vikas Gupta,Manager,115146,2020-07-31
+208,14,Meera Singh,Cashier,38303,2021-07-15
+209,11,Meera Sharma,Cashier,112646,2018-10-09
+210,8,Meera Kumar,Clerk,76516,2020-02-26
+211,11,Rahul Patel,Relationship Manager,100679,2019-08-19
+212,6,Rahul Gupta,Manager,75917,2019-04-06
+213,5,Priya Singh,Manager,34003,2025-01-05
+214,16,Amit Patel,Clerk,99230,2023-12-10
+215,3,Ananya Kumar,Cashier,74437,2020-04-24
+216,8,Karan Patel,Relationship Manager,50774,2019-08-24
+217,13,Arjun Gupta,Relationship Manager,80875,2020-12-16
+218,14,Ananya Gupta,Cashier,118932,2024-02-14
+219,7,Pooja Gupta,Cashier,77481,2023-01-14
+220,14,Arjun Kumar,Relationship Manager,36569,2019-04-15
+221,5,Sneha Kumar,Officer,85711,2021-11-13
+222,11,Amit Kumar,Relationship Manager,112097,2023-05-11
+223,9,Rohit Kumar,Officer,90131,2018-10-02
+224,7,Ananya Gupta,Manager,63576,2019-07-29
+225,20,Amit Patel,Manager,39319,2025-03-15
+226,7,Rohit Singh,Relationship Manager,91557,2022-06-10
+227,10,Arjun Sharma,Relationship Manager,51825,2019-01-27
+228,9,Vikas Gupta,Cashier,95019,2022-03-25
+229,2,Pooja Sharma,Clerk,61420,2022-06-19
+230,1,Rohit Gupta,Officer,33912,2018-08-15
+231,3,Pooja Singh,Relationship Manager,102382,2021-02-09
+232,3,Sneha Kumar,Manager,85491,2025-04-18
+233,4,Vikas Gupta,Relationship Manager,58142,2024-01-24
+234,11,Rohit Singh,Manager,81967,2021-07-26
+235,3,Arjun Patel,Relationship Manager,29743,2020-05-11
+236,19,Sneha Kumar,Cashier,99465,2020-06-10
+237,7,Rohit Gupta,Clerk,52008,2025-04-15
+238,7,Sneha Sharma,Cashier,100847,2021-03-24
+239,4,Ananya Sharma,Relationship Manager,52386,2023-01-15
+240,19,Rohit Patel,Cashier,25123,2020-05-23
+241,20,Rahul Sharma,Relationship Manager,115694,2023-10-02
+242,4,Ananya Patel,Relationship Manager,59583,2020-06-22
+243,9,Karan Patel,Relationship Manager,46560,2021-08-07
+244,2,Rohit Gupta,Cashier,65121,2023-01-11
+245,6,Meera Kumar,Relationship Manager,28935,2024-04-19
+246,17,Vikas Patel,Officer,113349,2023-09-13
+247,8,Sneha Sharma,Clerk,50423,2022-04-10
+248,19,Karan Sharma,Clerk,70276,2018-05-20
+249,9,Sneha Patel,Manager,35056,2018-01-26
+250,6,Meera Singh,Manager,63004,2020-04-19
+251,9,Rahul Gupta,Manager,33047,2023-05-11
+252,11,Rohit Gupta,Manager,96020,2020-04-30
+253,19,Neha Kumar,Manager,70499,2021-04-29
+254,11,Rahul Sharma,Relationship Manager,47688,2025-03-10
+255,15,Rahul Sharma,Officer,110006,2022-07-18
+256,12,Sneha Singh,Manager,46581,2020-10-01
+257,9,Ananya Kumar,Clerk,81972,2021-01-12
+258,20,Meera Sharma,Relationship Manager,47543,2019-11-14
+259,4,Priya Kumar,Relationship Manager,119532,2020-12-29
+260,16,Meera Kumar,Manager,80723,2021-06-20
+261,12,Rahul Kumar,Cashier,34429,2024-08-12
+262,6,Sneha Singh,Clerk,60058,2020-09-17
+263,12,Vikas Patel,Relationship Manager,97203,2019-12-16
+264,5,Pooja Kumar,Cashier,63661,2018-08-12
+265,10,Karan Singh,Clerk,90476,2024-11-05
+266,17,Neha Sharma,Clerk,97185,2018-12-25
+267,8,Vikas Kumar,Manager,110555,2018-12-27
+268,7,Pooja Gupta,Cashier,96030,2020-05-22
+269,7,Rohit Gupta,Officer,42488,2018-04-01
+270,5,Pooja Kumar,Manager,85757,2024-08-23
+271,10,Arjun Patel,Cashier,52798,2018-09-18
+272,17,Arjun Sharma,Manager,68275,2022-01-25
+273,19,Ananya Kumar,Clerk,82591,2023-12-12
+274,5,Rahul Gupta,Manager,55128,2023-09-12
+275,6,Meera Gupta,Relationship Manager,43998,2023-12-30
+276,12,Rahul Sharma,Officer,111694,2021-02-21
+277,16,Sneha Singh,Relationship Manager,72358,2021-05-17
+278,20,Arjun Sharma,Relationship Manager,99661,2018-07-10
+279,8,Meera Sharma,Officer,28949,2019-06-01
+280,12,Pooja Gupta,Cashier,85368,2018-07-19
+281,13,Rahul Patel,Relationship Manager,85314,2022-02-09
+282,18,Meera Patel,Relationship Manager,115443,2025-04-14
+283,11,Neha Singh,Relationship Manager,85935,2023-12-17
+284,14,Vikas Sharma,Officer,38574,2023-04-13
+285,8,Vikas Gupta,Relationship Manager,99207,2021-12-13
+286,11,Sneha Singh,Clerk,47764,2018-04-02
+287,20,Neha Gupta,Manager,102407,2020-11-07
+288,19,Sneha Patel,Manager,27202,2024-10-06
+289,5,Ananya Gupta,Cashier,74991,2022-06-25
+290,9,Pooja Patel,Relationship Manager,93801,2018-10-17
+291,10,Karan Kumar,Officer,60828,2023-11-01
+292,17,Karan Singh,Clerk,112542,2023-10-05
+293,14,Sneha Kumar,Clerk,107197,2021-04-03
+294,18,Arjun Kumar,Officer,112379,2022-01-29
+295,9,Rahul Sharma,Clerk,78476,2020-10-05
+296,5,Rahul Gupta,Relationship Manager,35692,2019-01-03
+297,3,Karan Patel,Officer,91271,2023-02-21
+298,8,Arjun Sharma,Manager,67738,2019-07-19
+299,15,Pooja Patel,Manager,51346,2019-09-09
+300,16,Arjun Singh,Manager,87154,2022-10-12
